@@ -1,2 +1,2 @@
-# TimerJS
+# JS
 # Slider
